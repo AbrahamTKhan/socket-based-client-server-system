@@ -1,0 +1,44 @@
+{
+  "Logs": [
+    [
+      "Date and Time: 2023/11/24 02:19:34",
+      "Number of customers in the cafe: 0",
+      "Number of customers waiting for orders: 0",
+      "Waiting area: 0 Tea(s) and 0 Coffee(s)",
+      "Brewing area: 0 Tea(s) and 0 Coffee(s)",
+      "Tray area: 0 Tea(s) and 0 Coffee(s)"
+    ],
+    [
+      "Date and Time: 2023/11/24 02:19:42",
+      "Number of customers in the cafe: 1",
+      "Number of customers waiting for orders: 0",
+      "Waiting area: 0 Tea(s) and 0 Coffee(s)",
+      "Brewing area: 0 Tea(s) and 0 Coffee(s)",
+      "Tray area: 0 Tea(s) and 0 Coffee(s)"
+    ],
+    [
+      "Date and Time: 2023/11/24 02:19:52",
+      "Number of customers in the cafe: 1",
+      "Number of customers waiting for orders: 1",
+      "Waiting area: 1 Tea(s) and 0 Coffee(s)",
+      "Brewing area: 0 Tea(s) and 0 Coffee(s)",
+      "Tray area: 0 Tea(s) and 0 Coffee(s)"
+    ],
+    [
+      "Date and Time: 2023/11/24 02:19:52",
+      "Number of customers in the cafe: 1",
+      "Number of customers waiting for orders: 1",
+      "Waiting area: 0 Tea(s) and 0 Coffee(s)",
+      "Brewing area: 1 Tea(s) and 0 Coffee(s)",
+      "Tray area: 0 Tea(s) and 0 Coffee(s)"
+    ],
+    [
+      "Date and Time: 2023/11/24 02:20:22",
+      "Number of customers in the cafe: 1",
+      "Number of customers waiting for orders: 1",
+      "Waiting area: 0 Tea(s) and 0 Coffee(s)",
+      "Brewing area: 0 Tea(s) and 0 Coffee(s)",
+      "Tray area: 1 Tea(s) and 0 Coffee(s)"
+    ]
+  ]
+}
